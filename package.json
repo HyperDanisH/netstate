@@ -1,5 +1,5 @@
 {
-  "name": "netstate",
+  "name": "@HyperDanisH/netstate",
   "version": "0.0.1",
   "description": "It helps to share state between multiple apps synchronously",
   "main": "src/index.js",
