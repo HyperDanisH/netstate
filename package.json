@@ -1,6 +1,6 @@
 {
-  "name": "@HyperDanisH/netstate",
-  "version": "1.0.0",
+  "name": "netstate",
+  "version": "0.0.1",
   "description": "It helps to share state between multiple apps synchronously",
   "main": "src/index.js",
   "repository": "https://github.com/HyperDanisH/netstate.git",
