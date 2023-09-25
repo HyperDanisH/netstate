@@ -1,13 +1,21 @@
 {
-  "name": "netstate",
+  "name": "@HyperDanisH/netstate",
   "version": "1.0.0",
   "description": "It helps to share state between multiple apps synchronously",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/HyperDanisH/netstate.git",
   "author": "Danish Arora <darora4289@gmail.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "react": "^18.2.0"
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "files": [
+    "."
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/HyperDanisH"
   }
 }
