@@ -1,0 +1,13 @@
+{
+  "name": "netstate",
+  "version": "1.0.0",
+  "description": "It helps to share state between multiple apps synchronously",
+  "main": "index.js",
+  "repository": "https://github.com/HyperDanisH/netstate.git",
+  "author": "Danish Arora <darora4289@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
